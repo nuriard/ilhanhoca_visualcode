@@ -1,0 +1,50 @@
+<html>
+<head><title>Stiller</title>
+<style type="text/css" >
+p, h1 {color: blue;}
+</style></head> <body>
+<h1>İSTANBUL DERBİSİ
+</h1>
+<p> ms1-kg:var </p>
+
+
+<br>
+<br>
+<br>
+
+aslan yegenlerim:
+<html>
+<head><title>Stiller</title>
+<style type="text/css">
+    p.bir{color:rgb(111, 0, 255);}
+    p.iki{color:blue;}
+
+</style>
+</head>
+<body>
+    <p class="bir">Manzambi Johan 12' </p>
+    <p class="iki">nicolas jackson 31', 39', ve daha niceleri... </p>
+</body>
+</html>
+<br>
+<br>
+
+<html> 
+<head><title>Stiller</title>
+<style type="text/css">
+    p.pixl {font-size:16px;}    
+    p.punt {font-size:16pt;}
+    p.yuzde{font-size:200%;}
+    p.eem{font-size:1.5em;}
+    body{font-size:24px;}
+</style></head>
+<body>
+<p> p etiketi </p>
+<p class="pixi">p etiketi 16px</p>
+<p class="punt">p etiketi 16pt</p>
+<p class="yuzde">p etiketi 200%</p>
+<p class="eem">p etiketi 1.5em</p>
+
+</body>
+</html>
+kalsın burda.
